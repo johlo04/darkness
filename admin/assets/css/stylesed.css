@@ -1,0 +1,23 @@
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: rgba(38, 151, 234, 0.3);
+}
+
+.modal_warning{ color: #FF0000 !important; opacity: 0.75 !important;}
+.help{ display:block; font-size: 11px; }
+.no-padding-top{ padding-top: 0px !important; }
+.no-padding-bot{ padding-bottom: 0px !important; }
+.no-padding-left-right { padding-left: 0px !important; padding-right: 0px !important; }
+.no-padding-vertical{ padding-top: 0px !important; padding-bottom: 0px !important; }
+
+.font-12 { font-size: 12px !important; }
+.white_textbox { background: #fff; border: 1px solid #ccc; }
+.gray_textbox { background: #eaeaea !important; border: 1px solid #ccc; }
+.add_space { min-height: 10px; }=======
+.gray_textbox { background: #eaeaea !important; border: 1px solid #ccc; }
+
+.dash-total::before{ background: #2196F3 none repeat scroll 0 0 !important;  }
+.dash-active::before{ background: #4CAF50 none repeat scroll 0 0 !important;  }
+.dash-new::before{ background: #7DD8D2 none repeat scroll 0 0 !important; }
+.dash-cancel::before{ background:  #F44336 none repeat scroll 0 0 !important; }
+.dash-complete::before{ background: #C77BD4 none repeat scroll 0 0 !important;  }
+.dash-income::before{ background: #8BC34A  none repeat scroll 0 0 !important;  }

@@ -1,0 +1,15 @@
+{
+  "name": "moment-countdown",
+  "homepage": "https://github.com/icambron/moment-countdown",
+  "version": "0.0.3",
+  "_release": "0.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.3",
+    "commit": "cc5c0c43cf3e1d020b77176810906f8185b2a86a"
+  },
+  "_source": "https://github.com/icambron/moment-countdown.git",
+  "_target": "^0.0.3",
+  "_originalSource": "moment-countdown",
+  "_direct": true
+}

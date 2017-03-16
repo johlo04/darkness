@@ -1,0 +1,27 @@
+1. Download java: https://www.java.com/en/download/installed8.jsp
+2. install or run the downloaded java file.
+3. after installing, go back to: https://www.java.com/en/download/installed8.jsp, to verify ur java.
+4. On your pc/laptop, go to settings: look for the 'Java' app
+5. On the tab click 'Security'
+	check the : Enable the java content on the browser
+				Choose the 'High' option, NOT the 'Very High'
+				Click the 'EDIT SITE LIST' AND ADD THE FOLLOWING:
+				FOR TEST SITE:
+					http://kuni.ph/auction/admin/index.php/system/filemanager
+					http://kuni.ph/auction/admin/assets/resources/tinymce/filemanager/dialog.php
+					http://kuni.ph/auction/admin/
+				FOR LIVE SITE: <-pending->
+				
+				http://[ YOUR WEBSITE NAME HERE ]/admin/index.php/system/filemanager
+				 
+6. Note: chrome does not support java.
+	
+	If your using safari (MAC)
+		> open the website link
+		> Go to 'preferences', then 'security'
+		> In the 'Internet plug-ins' section, click 'Manage Website Settings'.
+		> select the on option for the site you want to allow.
+		> then click the option tab again while holding the 'alt button', REMOVE/UNCHECK  the 'run safe mode'
+		> Click trust the site
+		
+		Source: https://campus.barracuda.com/product/sslvpn/article/SSLVPN/JavaConfigOSX/
